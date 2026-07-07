@@ -1,0 +1,380 @@
+[
+    {
+    
+        "text_hint": "Upper Floor of the Larger Hut, Top of the Waterfall North of the Village",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "name": "Relic: Kanpo Herbs - Yagen",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Wooden House Below the Village Overlook Base Camp",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "name": "Relic: Kanpo Herbs - Medicinal Herb Vial",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Behind the Rope-Wrapped Door, Basement of the Largest Building in the Village",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "name": "Relic: Kanpo Herbs - Dried Gobo Root",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "In the Underground Bunker Connecting the First and Second Parts of the Level",
+        "region": "Bunker",
+        "map": "Coastal Forest",
+        "name": "Relic: Noh Masks - Hannya Mask",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Under the Wooden Bridge, Southeast Corner of the Second Area",
+        "region": "Coastal Forest North",
+        "map": "Coastal Forest",
+        "name": "Relic: Noh Masks - Female Noh Mask",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Small Cave in the Northwest Corner of the Second Area",
+        "region": "Coastal Forest North",
+        "map": "Coastal Forest",
+        "name": "Relic: Noh Masks - Oni Noh Mask",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Upper Level of the Taller Building Not on Fire, After the Burning Building Ambush",
+        "region": "Mountain Temple",
+        "map": "Mountain Temple",
+        "name": "Relic: Edo Period Fans - Green Folded Fan",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Small Building Below and Between the First Fan and the Burning Temple",
+        "region": "Mountain Temple",
+        "map": "Mountain Temple",
+        "name": "Relic: Edo Period Fans - Gunbai War Fan",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Ground Floor of the Three-Story Building in the Village",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "name": "Relic: Semper Fi - Silver Flask",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Ledge Below the Entrance to the Hall of Ascension Challenge Tomb",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "name": "Relic: Semper Fi - Old Photograph",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Hut on the Ledge Southwest of the Village Plateau Base Camp",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "name": "Relic: Semper Fi - USMC Dogtags",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Back Right Corner of the Cement Block Building at the Top of the First Hill",
+        "region": "Base Exterior",
+        "map": "Base Exterior",
+        "name": "Relic: Senshi Elite - Japanese Dogtags",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Second Floor, Behind the Northeast Door, Building with the Metal Shield Solarii",
+        "region": "Base Exterior",
+        "map": "Base Exterior",
+        "name": "Relic: Senshi Elite - Marksmanship Badge",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Tunnel Behind the Old Truck, Near Endurance Overlook Base Camp",
+        "region": "Cliffside Bunker",
+        "map": "Cliffside Bunker",
+        "name": "Relic: Ancient Coins - Japanese 2 Sen Coin",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Room with the Rope-Wrapped Door, Building Where the Generator Was Raised",
+        "region": "Cliffside Bunker",
+        "map": "Cliffside Bunker",
+        "name": "Relic: Ancient Coins - 100 Mon Coin",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Walled-Off Area on the West Side of the Bunker, Through the Gun Turret Room",
+        "region": "Cliffside Bunker",
+        "map": "Cliffside Bunker",
+        "name": "Relic: Ancient Coins - Portuguese Tin Coin",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Ground Beside the Broken Tunnel Base Camp",
+        "region": "Base Approach",
+        "map": "Base Approach",
+        "name": "Relic: Bronze Coins - Bronze Chinese Coin",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Top of the Stairs, Second Floor of the Building with the Spotlight",
+        "region": "Base Approach",
+        "map": "Base Approach",
+        "name": "Relic: Bronze Coins - Bronze Japanese Coin",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Middle Level Room, Multi-Level Shipwreck Between the Beach and Cliffside Bunker",
+        "region": "Shipwreck Beach",
+        "map": "Shipwreck Beach",
+        "name": "Relic: A Family Outing - Stuffed Bunny",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Top of the Tower Near the Flooded Vault Challenge Tomb Entrance",
+        "region": "Shipwreck Beach",
+        "map": "Shipwreck Beach",
+        "name": "Relic: A Family Outing - Toy Train",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Room Overlooking the Sea, Rooms Leading to the Flooded Vault Challenge Tomb",
+        "region": "Shipwreck Beach",
+        "map": "Shipwreck Beach",
+        "name": "Relic: A Family Outing - Worn Wallet",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Little Room Down the Fallen Mast, Wrecked Galleon",
+        "region": "Shipwreck Beach",
+        "map": "Shipwreck Beach",
+        "name": "Relic: Yuan Dynasty Jade - Brown Jade Ink Box",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Lower Level Table, Multi-Level Shipwreck Between the Beach and Cliffside Bunker",
+        "region": "Shipwreck Beach",
+        "map": "Shipwreck Beach",
+        "name": "Relic: Yuan Dynasty Jade - Stained Jade Head Rest",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Second Room Before the Metal Ladder, Rooms Leading to the Flooded Vault Challenge Tomb",
+        "region": "Shipwreck Beach",
+        "map": "Shipwreck Beach",
+        "name": "Relic: Yuan Dynasty Jade - Shaped Jade Head Rest",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Rock Ledge with Skulls and Candles, North Side of The Pit",
+        "region": "Geothermal Caverns",
+        "map": "Geothermal Caverns",
+        "name": "Relic: Ceremonial Fans - Funeral Fan",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Table at the Catacombs Base Camp",
+        "region": "Geothermal Caverns",
+        "map": "Geothermal Caverns",
+        "name": "Relic: Ceremonial Fans - Wedding Fan",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Ritual Chamber, End of the Flooded Tunnel Left of the Altar",
+        "region": "Geothermal Caverns",
+        "map": "Geothermal Caverns",
+        "name": "Relic: Ceremonial Fans - Inscribed Silk Fan",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Entrance Hall, Table on the Left Near the Sacred Hall Base Camp",
+        "region": "Chasm Shrine",
+        "map": "Chasm Shrine",
+        "name": "Relic: Vases - Kansu Burial Urn",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Lower Level of the Room with the Round Grate and Dangling Cage",
+        "region": "Chasm Shrine",
+        "map": "Chasm Shrine",
+        "name": "Relic: Vases - Ban Chiang Vase",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Alcove in the Final Room, Near the Sacred Passage Day Camp",
+        "region": "Chasm Shrine",
+        "map": "Chasm Shrine",
+        "name": "Relic: Vases - Satsuma Vase",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Hollow Log Northwest of the Crashed Helicopter Wreckage",
+        "region": "Summit Forest",
+        "map": "Summit Forest",
+        "name": "Relic: Daggers - Chou Dynasty Dagger",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Wooden Treetop Platform with the Salvage Net, West Side of the Forest",
+        "region": "Summit Forest",
+        "map": "Summit Forest",
+        "name": "Relic: Daggers - Jade Ceremonial Dagger",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "High Ledge on the Southeast Edge of the Forest",
+        "region": "Summit Forest",
+        "map": "Summit Forest",
+        "name": "Relic: Daggers - Japanese Ceremonial Dagger",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Shack on the West Side of Shantytown, Behind a Boarded-Up Doorway",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "name": "Relic: Animal Statuary - Jade Horse",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Middle Level Behind the Plank-and-Barbed Wire Barrier, Street Leading to the Ancient Gate",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "name": "Relic: Animal Statuary - Jade Water Buffalo",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Basement Level Under the Stairs, Windmill and Cargo-Hauling Building",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "name": "Relic: Animal Statuary - Jade Drinking Vessel",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "First Small Room on the Right, Shack Below Helicopter Hill",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "name": "Relic: Inro - Decorative Inro",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Middle Level, Japanese-Style Building East of Helicopter Hill",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "name": "Relic: Inro - Metal Inro",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Lowest Level of the Building with the Gondola Pulley, Southwest Corner",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "name": "Relic: Inro - Commander's Inro",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Behind a Boarded-Up Doorway Left of the Windmill Building",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "name": "Relic: Inro - Scribe's Inro",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "Stream Bed in the Tunnel from Shipwreck Beach, Behind Blown-Open Metal Barriers",
+        "region": "Research Base",
+        "map": "Research Base",
+        "name": "Relic: Helmets - Chou Dynasty Helmet",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+    
+        "text_hint": "East End of the Hallway with Metal Tracks Beyond the Elevator Shaft",
+        "region": "Research Base",
+        "map": "Research Base",
+        "name": "Relic: Helmets - Ceremonial Helmet",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    }
+]

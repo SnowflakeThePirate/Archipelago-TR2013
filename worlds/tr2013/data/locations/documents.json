@@ -1,0 +1,398 @@
+[
+    {
+        "text_hint": "First Floor of the Three-Story Building, Near Village Plateau Base Camp",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "original_item": "Document: Ancient Scrolls - Ambassador: First Impressions",
+        "name": "Document: Ancient Scrolls - Ambassador: First Impressions",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Smaller Hut at the Top of the Waterfall North of the Village",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "original_item": "Document: Ancient Scrolls - Ambassador: Discoveries",
+        "name": "Document: Ancient Scrolls - Ambassador: Discoveries",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Ledge in the Canyon East of the Village",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "original_item": "Document: Ancient Scrolls - Hoshi: Answering the Call",
+        "name": "Document: Ancient Scrolls - Hoshi: Answering the Call",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Last Rock Column Before the Canyon Crossing to the Smoke Beacon",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "original_item": "Document: Ancient Scrolls - Ambassador: Dark Tidings",
+        "name": "Document: Ancient Scrolls - Ambassador: Dark Tidings",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Upper Level of the Hut with the Big Bell",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "original_item": "Document: Ancient Scrolls - Hoshi: At Her Side",
+        "name": "Document: Ancient Scrolls - Hoshi: At Her Side",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Inside the Wooden House Below the Village Overlook Base Camp",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "original_item": "Document: Ancient Scrolls - General: The Oath",
+        "name": "Document: Ancient Scrolls - General: The Oath",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Inside the Hunting Lodge, Near Hunting Lodge Base Camp",
+        "region": "Summit Forest",
+        "map": "Summit Forest",
+        "original_item": "Document: Ancient Scrolls - General: The Conquerors",
+        "name": "Document: Ancient Scrolls - General: The Conquerors",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Southeastern Corner, Near the Tunnel to Cliffside Bunker",
+        "region": "Shipwreck Beach",
+        "map": "Shipwreck Beach",
+        "original_item": "Document: Ancient Scrolls - Hoshi: In Her Image",
+        "name": "Document: Ancient Scrolls - Hoshi: In Her Image",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Received Automatically During the Cut Scene in the Ancient Tomb",
+        "region": "Research Base",
+        "map": "Research Base",
+        "original_item": "Document: Ancient Scrolls - General: Failure of Duty",
+        "name": "Document: Ancient Scrolls - General: Failure of Duty",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Alcove in Himiko's Shrine",
+        "region": "Chasm Shrine",
+        "map": "Chasm Shrine",
+        "original_item": "Document: Ancient Scrolls - Hoshi: An End",
+        "name": "Document: Ancient Scrolls - Hoshi: An End",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Near the Large Gate at the Level Exit, Beside Dr. Whitman",
+        "region": "Coastal Forest North",
+        "map": "Coastal Forest",
+        "original_item": "Document: Endurance Officers - Whitman: Don't Leave Me",
+        "name": "Document: Endurance Officers - Whitman: Don't Leave Me",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Ground Next to the Village Plateau Base Camp",
+        "region": "Mountain Village",
+        "map": "Mountain Village",
+        "original_item": "Document: Endurance Officers - Reyes: Dear Roth",
+        "name": "Document: Endurance Officers - Reyes: Dear Roth",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Floor Near the Checkerboard, Below Catacombs Base Camp",
+        "region": "Geothermal Caverns",
+        "map": "Geothermal Caverns",
+        "original_item": "Document: Endurance Officers - Reyes: Dear Alisha",
+        "name": "Document: Endurance Officers - Reyes: Dear Alisha",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Area Leading Up to the Research Base",
+        "region": "Shipwreck Beach",
+        "map": "Shipwreck Beach",
+        "original_item": "Document: Endurance Officers - Whitman: My Great Discovery",
+        "name": "Document: Endurance Officers - Whitman: My Great Discovery",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "On a Rock Near the Level's Starting Point",
+        "region": "Summit Forest",
+        "map": "Summit Forest",
+        "original_item": "Document: Endurance Officers - Roth: An Apology",
+        "name": "Document: Endurance Officers - Roth: An Apology",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Inside a Cement Building Near the Survivors' Camp",
+        "region": "Shipwreck Beach",
+        "map": "Shipwreck Beach",
+        "original_item": "Document: Endurance Officers - Reyes: About Lara",
+        "name": "Document: Endurance Officers - Reyes: About Lara",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Ledge Near the Crank, Room with the Round Grate and Dangling Cage",
+        "region": "Chasm Shrine",
+        "map": "Chasm Shrine",
+        "original_item": "Document: Endurance Officers - Whitman: Crossing the Line",
+        "name": "Document: Endurance Officers - Whitman: Crossing the Line",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Near Where You Land After the Zip Line from the Burning Building",
+        "region": "Mountain Temple",
+        "map": "Mountain Temple",
+        "original_item": "Document: Confessions of a Solarii - Salvation",
+        "name": "Document: Confessions of a Solarii - Salvation",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "On the Desk Just Inside the Base, After Climbing Out of the Water",
+        "region": "Mountain Base",
+        "map": "Mountain Base",
+        "original_item": "Document: Confessions of a Solarii - The Best Job",
+        "name": "Document: Confessions of a Solarii - The Best Job",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Top Level of the Japanese-Style Building East of Helicopter Hill",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "original_item": "Document: Confessions of a Solarii - Survival of the Fittest",
+        "name": "Document: Confessions of a Solarii - Survival of the Fittest",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Upper Level Room Behind a Wooden Barrier, Shack Below Helicopter Hill",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "original_item": "Document: Confessions of a Solarii - Toil and Distraction",
+        "name": "Document: Confessions of a Solarii - Toil and Distraction",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Beside the Campfire at the First Campsite",
+        "region": "Geothermal Caverns",
+        "map": "Geothermal Caverns",
+        "original_item": "Document: Confessions of a Solarii - In Her Honor",
+        "name": "Document: Confessions of a Solarii - In Her Honor",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Little Cave Beside the Waterfall, Near Mountain Temple Base Camp",
+        "region": "Mountain Temple",
+        "map": "Mountain Temple",
+        "original_item": "Document: Diaries of a Madman - Stranded",
+        "name": "Document: Diaries of a Madman - Stranded",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "On a Desk in the Control Room Near the End of the Level",
+        "region": "Mountain Base",
+        "map": "Mountain Base",
+        "original_item": "Document: Diaries of a Madman - Alone",
+        "name": "Document: Diaries of a Madman - Alone",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Floor Next to the Radio Tower Base Camp",
+        "region": "Base Exterior",
+        "map": "Base Exterior",
+        "original_item": "Document: Diaries of a Madman - Research",
+        "name": "Document: Diaries of a Madman - Research",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Bombed-Out Building at the Top of the Hill",
+        "region": "Base Exterior",
+        "map": "Base Exterior",
+        "original_item": "Document: Diaries of a Madman - The Solarii",
+        "name": "Document: Diaries of a Madman - The Solarii",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Wooden Ledge Above the Stagnant Pool, Beyond the Ancient Gate",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "original_item": "Document: Diaries of a Madman - Belief",
+        "name": "Document: Diaries of a Madman - Belief",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Basement Level Under the Stairs, Windmill Building",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "original_item": "Document: Diaries of a Madman - Obsession",
+        "name": "Document: Diaries of a Madman - Obsession",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Ritual Chamber, Ground Left of the Altar",
+        "region": "Geothermal Caverns",
+        "map": "Geothermal Caverns",
+        "original_item": "Document: Diaries of a Madman - Lost",
+        "name": "Document: Diaries of a Madman - Lost",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Desk in the Room Between the SMG and the Spotlight Ambush",
+        "region": "Mountain Base",
+        "map": "Mountain Base",
+        "original_item": "Document: Wartime Intelligence - Scientist: Secret Project",
+        "name": "Document: Wartime Intelligence - Scientist: Secret Project",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Inside Wrecked Jeep",
+        "region": "Coastal Forest South",
+        "map": "Coastal Forest",
+        "original_item": "Document: Wartime Intelligence - Soldier: Oni Stalkers",
+        "name": "Document: Wartime Intelligence - Soldier: Oni Stalkers",
+        "item_object": "0x96",
+        "cordinates": "53N 712353 UTM 3416078"
+    },
+    {
+        "text_hint": "Received Automatically Upon Re-Entering the Bunker from the Endurance",
+        "region": "Cliffside Bunker",
+        "map": "Cliffside Bunker",
+        "original_item": "Document: Wartime Intelligence - Scientist: Secret of the Island",
+        "name": "Document: Wartime Intelligence - Scientist: Secret of the Island",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Desk in the Room with the Research Lab Day Camp",
+        "region": "Research Base",
+        "map": "Research Base",
+        "original_item": "Document: Wartime Intelligence - Soldier: Awakening",
+        "name": "Document: Wartime Intelligence - Soldier: Awakening",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Top of the Low Steps Beyond the Generator Fight Area",
+        "region": "Cliffside Bunker",
+        "map": "Cliffside Bunker",
+        "original_item": "Document: Wartime Intelligence - Scientist: In Search of the Star",
+        "name": "Document: Wartime Intelligence - Scientist: In Search of the Star",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Entrance Hall, Floor Right of the Big Wooden Doors, Sacred Hall Base Camp",
+        "region": "Chasm Shrine",
+        "map": "Chasm Shrine",
+        "original_item": "Document: Wartime Intelligence - Soldier: Last Stand",
+        "name": "Document: Wartime Intelligence - Soldier: Last Stand",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Rock Ledge Near the Wooden Bridge, Southeast Corner of Second Forested Area",
+        "region": "Coastal Forest North",
+        "map": "Coastal Forest",
+        "original_item": "Document: Endurance Crew - Sam: Feelings of Unease",
+        "name": "Document: Endurance Crew - Sam: Feelings of Unease",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Top of the Stairs at the Cherry Blossom Shrine, Northwest Corner",
+        "region": "Coastal Forest North",
+        "map": "Coastal Forest",
+        "original_item": "Document: Endurance Crew - Sam: Filmmaker",
+        "name": "Document: Endurance Crew - Sam: Filmmaker",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Table Near the Forest Ruins Campsite",
+        "region": "Coastal Forest North",
+        "map": "Coastal Forest",
+        "original_item": "Document: Endurance Crew - Sam: Family Story",
+        "name": "Document: Endurance Crew - Sam: Family Story",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Floor of the Cabin Lara and Sam Shared, Inside the Endurance Wreck",
+        "region": "Cliffside Bunker",
+        "map": "Cliffside Bunker",
+        "original_item": "Document: Endurance Crew - Sam: Adventures with Lara",
+        "name": "Document: Endurance Crew - Sam: Adventures with Lara",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Lower Level Room Behind a Wooden Barrier, Shack Below Helicopter Hill",
+        "region": "Shantytown",
+        "map": "Shantytown",
+        "original_item": "Document: Endurance Crew - Grim: The Good Old Days",
+        "name": "Document: Endurance Crew - Grim: The Good Old Days",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Ground Near the Endurance Overlook Base Camp",
+        "region": "Cliffside Bunker",
+        "map": "Cliffside Bunker",
+        "original_item": "Document: Endurance Crew - Alex: Over His Head",
+        "name": "Document: Endurance Crew - Alex: Over His Head",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Behind a Door Near the PT Boat, Cement Building Near Survivors' Camp",
+        "region": "Shipwreck Beach",
+        "map": "Shipwreck Beach",
+        "original_item": "Document: Endurance Crew - Jonah: Recognizing the Truth",
+        "name": "Document: Endurance Crew - Jonah: Recognizing the Truth",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Elevator Shaft, Third Floor Landing",
+        "region": "Research Base",
+        "map": "Research Base",
+        "original_item": "Document: GPS Secrets - Unknown: Mysterious Orders",
+        "name": "Document: GPS Secrets - Unknown: Mysterious Orders",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    {
+        "text_hint": "Received Automatically Upon Collecting the Final GPS Cache",
+        "region": "Variable",
+        "map": "Variable",
+        "original_item": "Document: GPS Secrets - Unknown: Failed Mission",
+        "name": "Document: GPS Secrets - Unknown: Failed Mission",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "from": "Menu",
+        "to": "Scavenger's Den",
+        "condition": {}
+    },
+    {
+        "from": "Scavenger's Den",
+        "to": "Coastal Bluffs",
+        "condition": {}
+    },
+    {
+        "from": "Coastal Bluffs",
+        "to": "Coastal Forest South",
+        "condition": {}
+    },
+    {
+        "from": "Coastal Forest South",
+        "to": "Bunker",
+        "condition": {
+            "items": [
+                "Makeshift Longbow"
+            ]
+        }
+    },
+    {
+        "from": "Bunker",
+        "to": "Coastal Forest North",
+        "condition": {
+            "items": [
+                "Pry Axe"
+            ]
+        }
+    },
+    {
+        "from": "Bunker",
+        "to": "Coastal Forest South",
+        "condition": {
+            "items": [
+                "Pry Axe"
+            ]
+        }
+    },
+    {
+        "from": "Coastal Forest North",
+        "to": "Mountain Temple",
+        "condition": {}
+    },
+    {
+        "from": "Mountain Temple",
+        "to": "Mountain Village",
+        "condition": {}
+    },
+    {
+        "from": "Mountain Village",
+        "to": "Base Approach",
+        "condition": {}
+    },
+    {
+        "from": "Base Approach",
+        "to": "Mountain Base",
+        "condition": {}
+    },
+    {
+        "from": "Mountain Base",
+        "to": "Base Exterior",
+        "condition": {}
+    },
+    {
+        "from": "Base Exterior",
+        "to": "Cliffside Village",
+        "condition": {}
+    },
+    {
+        "from": "Cliffside Village",
+        "to": "Mountain Village",
+        "condition": {}
+    },
+    {
+        "from": "Mountain Village",
+        "to": "Mountain Pass",
+        "condition": {}
+    },
+    {
+        "from": "Mountain Pass",
+        "to": "Chasm Monastery",
+        "condition": {}
+    },
+    {
+        "from": "Chasm Monastery",
+        "to": "Mountain Village",
+        "condition": {}
+    },
+    {
+        "from": "Mountain Village",
+        "to": "Mountain Descent",
+        "condition": {}
+    },
+    {
+        "from": "Mountain Descent",
+        "to": "Shantytown",
+        "condition": {}
+    },
+    {
+        "from": "Shantytown",
+        "to": "Cavern Entrance",
+        "condition": {}
+    },
+    {
+        "from": "Cavern Entrance",
+        "to": "Geothermal Caverns",
+        "condition": {}
+    },
+    {
+        "from": "Geothermal Caverns",
+        "to": "Solarii Fortress",
+        "condition": {}
+    },
+    {
+        "from": "Solarii Fortress",
+        "to": "Fortress Tower",
+        "condition": {}
+    },
+    {
+        "from": "Fortress Tower",
+        "to": "Gondola Transport",
+        "condition": {}
+    },
+    {
+        "from": "Gondola Transport",
+        "to": "Shipwreck Beach",
+        "condition": {}
+    },
+    {
+        "from": "Shipwreck Beach",
+        "to": "Cliffside Bunker",
+        "condition": {}
+    },
+    {
+        "from": "Cliffside Bunker",
+        "to": "Research Base",
+        "condition": {
+            "items": [
+                "Trench Shotgun"
+            ]
+        }
+    },
+    {
+        "from": "Research Base",
+        "to": "Chasm Stronghold",
+        "condition": {}
+    },
+    {
+        "from": "Chasm Stronghold",
+        "to": "Chasm Shrine",
+        "condition": {}
+    },
+    {
+        "from": "Chasm Shrine",
+        "to": "Chasm Ziggurat",
+        "condition": {}
+    }
+]

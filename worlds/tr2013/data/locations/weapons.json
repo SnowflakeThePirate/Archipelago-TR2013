@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Makeshift Longbow",
+        "region": "Coastal Forest South",
+        "map": "Coastal Forest",
+        "original_item": "Weapon: Makeshift Longbow",
+        "cordinates": "53N 712350 UTM 3416078",
+        "progression_type": "PRIORITY"
+    },
+    {
+        "name": "Trench Shotgun",
+        "region": "Chasm Monastery",
+        "map": "Chasm Monastery",
+        "original_item": "Weapon: Trench Shotgun",
+        "cordinates": "UNKNOWN",
+        "progression_type": "PRIORITY"
+    }
+]

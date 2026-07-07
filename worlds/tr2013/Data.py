@@ -1,31 +1,46 @@
 import os
 import json
-from BaseClasses import Item, Location
+import pkgutil
 
-class TR2013Item(Item):
-    name: str
-    id: int
-    game_id: str
-    type: str
-    tier: str
+from worlds.celeste_open_world import data
 
-class TR2013Location(Location):
-    name: str
-    id: int
-    item_id: str
-    region: str
+
+# blatantly copied from the re2 ap which copied from the minecraft ap world because why not
+def load_data_file(*args) -> dict:
+    data_directory = "data"
+    fname = os.path.join(data_directory, *args)
+
+    try:
+        filedata = json.loads(pkgutil.get_data(__name__, fname).decode())
+    except:
+        filedata = []
+
+    return filedata
+
 
 class Data:
     item_table = []
     location_table = []
+    region_table = []
+    region_connections_table = []
+
     item_name_groups = {}
 
     @classmethod
     def load_data(cls):
-        data_file_path = os.path.join(os.path.dirname(__file__), 'items.json')
-        with open(data_file_path, 'r') as f:
-            Data.item_table = [TR2013Item(**item) for item in json.load(f)]
+        # Load Regions
+        Data.region_table.extend(load_data_file("regions.json"))
 
-        location_file_path = os.path.join(os.path.dirname(__file__), 'locations.json')
-        with open(location_file_path, 'r') as f:
-            Data.location_table = [TR2013Location(**location) for location in json.load(f)]
+        # Load Items
+        Data.item_table.extend(load_data_file("items.json"))
+
+        # Load Locations
+        for index, location_file in enumerate(os.listdir(os.path.join(os.path.dirname(__file__), "data", "locations"))):
+            if location_file.endswith(".json"):
+                Data.location_table.extend(load_data_file("locations", location_file))
+
+        for index, location in enumerate(Data.location_table):
+            Data.location_table[index]['id'] = location.get('id', index + 1)
+
+        # Load Region Connections
+        Data.region_connections_table.extend(load_data_file("region_connections.json"))

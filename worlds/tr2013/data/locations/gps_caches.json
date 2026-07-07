@@ -1,0 +1,602 @@
+[
+    {
+        "text_hint": "High Ledge Above Path from First Base Camp to Bunker",
+        "region": "Coastal Forest South",
+        "map": "Coastal Forest",
+        "name": "GPS Cache",
+        "item_object": "UNKNOWN",
+        "cordinates": "53N 712351 UTM 3416072",
+    },
+    {
+        "text_hint": "Wooden ledge on rocks above the waterfall by the Pond",
+        "region": "Coastal Forest South",
+        "map": "Coastal Forest",
+        "name": "GPS Cache",
+        "item_object": "UNKNOWN",
+        "cordinates": "53N 712364 UTM 3416067",
+    },
+    {
+        "text_hint": "Base of Small Waterfall by the Pond, Eastern Forested Area",
+        "region": "Coastal Forest South",
+        "map": "Coastal Forest",
+        "name": "GPS Cache",
+        "item_object": "UNKNOWN",
+        "cordinates": "53N 712364 UTM 3416067",
+    },
+    {
+        "text_hint": "Rock Ledge on Southern Boundary Wall, Second Forested Area",
+        "region": "Coastal Forest North",
+        "map": "Coastal Forest",
+        "name": "GPS Cache",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN",
+    },
+    {
+        "text_hint": "Stepped Rock Formation Opposite the Shrine Steps, Northwest Corner",
+        "region": "Coastal Forest North",
+        "map": "Coastal Forest",
+        "name": "GPS Cache",
+        "item_object": "UNKNOWN",
+        "cordinates": "UNKNOWN"
+    },
+    // {
+    //     "text_hint": "Building Ahead at Top of Long Ladder, Near Base Camp",
+    //     "region": "Mountain Temple",
+    //     "map": "Mountain Temple",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Rock Ledge Beyond the Pavilion, Left Side",
+    //     "region": "Mountain Temple",
+    //     "map": "Mountain Temple",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Stream at the Base of the Waterfall North of Village Plateau Camp",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Roof of the Leftmost Hut in the Village",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Grassy Ledge, Northeast Side of the Village, Near Three-Story Building",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Grassy Ledge Below Cache 3, Northeast Side of the Village",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Roof of Cliffside Shelter Behind the Three-Story Building",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Water at Tunnel Entrance to the Tomb of the Unworthy",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Hut Roof at the Top of the Waterfall North of the Village",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Doorway of the Large House Across the Stream, Top of Waterfall",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Under the Wooden Hut on the Cliffside North of the Village",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Tall Column in the Canyon East of the Village",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Stream Bank Beyond Mountain Descent Day Camp, Near Salvage Nets",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "High Ledge Across the Stream from Mountain Descent Day Camp",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "North Side of the Hut with the Big Bell",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Grassy Ledge Beyond the Plane Wreckage, Near Village Plateau Camp",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Ledge Southwest of the Village, Beyond the 10th Illumination Statue",
+    //     "region": "Mountain Village",
+    //     "map": "Mountain Village",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Ground Beside the Junked Truck, Broken Tunnel Campsite",
+    //     "region": "Base Approach",
+    //     "map": "Base Approach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Behind the Tower Near the Level Exit",
+    //     "region": "Base Approach",
+    //     "map": "Base Approach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Floor Behind Boxes, Room After the SMG",
+    //     "region": "Mountain Base",
+    //     "map": "Mountain Base",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Floor of the Spotlight Ambush Room, Right Side",
+    //     "region": "Mountain Base",
+    //     "map": "Mountain Base",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Bridge Deck Behind the Junked Truck, Near Bridge Overlook Camp",
+    //     "region": "Base Exterior",
+    //     "map": "Base Exterior",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Inside a Shack Below Helicopter Hill",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Tunnel Entrance to the Well of Tears Challenge Tomb",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Lower Level of the Tattered Canopy Tower, West Side",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Behind a Boarded-Up Doorway South of the Japanese-Style Building",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Behind Plank and Barbed Wire Barrier, Street Near the Ancient Gate",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Pile of Bottles Below the Wooden Bridge, Near Grim",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Below the Makeshift Bridge, Southwest Corner Downstream from Grim",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Alcove with Plank Barriers, Near the Windmill, Southwest Corner",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Ground to the Right of the Windmill Building",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Rooftop of the Windmill and Cargo-Hauling Building",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Pile of Junk in the Southwest Corner, Windmill Building Ground Level",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Fenced Area Beyond the Plank Barrier, Near Cache 11",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Corner Below the Windmill Building, Visible from Ancient Gate Camp",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Basement Ledge Near the Salvage Net Cage, Windmill Building",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Tuft of Grass in the Tunnel to the Chamber of Judgment",
+    //     "region": "Shantytown",
+    //     "map": "Shantytown",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Ledge in the Gas Tunnel, The Pit",
+    //     "region": "Geothermal Caverns",
+    //     "map": "Geothermal Caverns",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Horseshoe Tunnel with Prisoner Cages, The Pit",
+    //     "region": "Geothermal Caverns",
+    //     "map": "Geothermal Caverns",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Ground on the South Side of the First Solarii Ambush Tunnel",
+    //     "region": "Geothermal Caverns",
+    //     "map": "Geothermal Caverns",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Beside the Metal Door, North End of the Cave Beyond Catacombs Camp",
+    //     "region": "Geothermal Caverns",
+    //     "map": "Geothermal Caverns",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Top of the Stone Steps, Ritual Chamber Near the Gas Valve",
+    //     "region": "Geothermal Caverns",
+    //     "map": "Geothermal Caverns",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Marshy Area by the Crashed Helicopter Clearing",
+    //     "region": "Summit Forest",
+    //     "map": "Summit Forest",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Ledge Inside the Cliffside Hut, Southwest Corner of the Forest",
+    //     "region": "Summit Forest",
+    //     "map": "Summit Forest",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "High Ledge at the South End of the Forest",
+    //     "region": "Summit Forest",
+    //     "map": "Summit Forest",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Pool Near the Waterfall, Southern Edge of the Forest",
+    //     "region": "Summit Forest",
+    //     "map": "Summit Forest",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Pile of Rubbish Near the Exit Tunnel, Room Above the Wolf Cages",
+    //     "region": "Summit Forest",
+    //     "map": "Summit Forest",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Ledge Left of the Stream Entrance from Gondola Transport",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Rooftop of the Building with Reyes's Note",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Beach Near the Buried Anchor, Below Survivors' Camp",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Sand Near the 5th Mine Sweeper Mine, Near the Temple of the Handmaidens",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Sand Below the Hole in the Wooden Pier, Northeast of Survivors' Camp",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "High Ledge on the Cliff Between the Pier and the Shipwreck",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Top of the Mast, Multi-Level Shipwreck East of Survivors' Camp",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Wooden Pier Above the Tide Pool, Base of the Flooded Vault Tower",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Small Cave Beside the Waterfall Feeding the Tide Pool",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Base of the Cliff, Far Eastern End of the Beach",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Ledge Below the Flooded Vault Entrance, Left of the Zip Line",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Grassy Bank Near the Rope-Wrapped Float, Sheltered Pool",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Below the Wooden Ledge Near the Campfire, Grotto Day Camp",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Metal Roof of the Elevator Shaft, Ascent to Research Base",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Behind the Water Tower, Ledge with Dr. Whitman's Document",
+    //     "region": "Shipwreck Beach",
+    //     "map": "Shipwreck Beach",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Tall Grass Near the Tunnel Exit, Bunker Vista Day Camp",
+    //     "region": "Cliffside Bunker",
+    //     "map": "Cliffside Bunker",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Southern Corner of the Solarii Squad Fight Room, Lower Level",
+    //     "region": "Cliffside Bunker",
+    //     "map": "Cliffside Bunker",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Grass in the Eastern Corner of the Bunker Roof",
+    //     "region": "Cliffside Bunker",
+    //     "map": "Cliffside Bunker",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Behind Wooden Crates, Endurance Overlook Base Camp",
+    //     "region": "Cliffside Bunker",
+    //     "map": "Cliffside Bunker",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Behind a Boulder on the Grassy Plateau Before the Zip Line",
+    //     "region": "Cliffside Bunker",
+    //     "map": "Cliffside Bunker",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Tunnel Left Side, Stream from the Level Entrance",
+    //     "region": "Research Base",
+    //     "map": "Research Base",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Beyond the Windowsill, Across from the Research Lab Base Camp",
+    //     "region": "Research Base",
+    //     "map": "Research Base",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // },
+    // {
+    //     "text_hint": "Hallway with Metal Tracks Beyond the Elevator Shaft, Northwest Corner",
+    //     "region": "Research Base",
+    //     "map": "Research Base",
+    //     "name": "GPS Cache",
+    //     "item_object": "UNKNOWN",
+    //     "cordinates": "UNKNOWN"
+    // }
+]

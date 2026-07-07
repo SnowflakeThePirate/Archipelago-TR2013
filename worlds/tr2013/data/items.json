@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Makeshift Longbow",
+      "id": "0xf",
+      "game_id": "0xf",
+      "type": "weapon",
+      "tier": "base"
+    },
+    {
+      "name": "Pry Axe",
+      "id": "0x1a",
+      "game_id": "0x1a",
+      "type": "gear",
+      "tier": "base"
+    },
+    {
+      "name": "Trench Shotgun",
+      "id": "0x44",
+      "game_id": "0x44",
+      "type": "weapon",
+      "tier": "base"
+    }
+]   
