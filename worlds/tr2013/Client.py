@@ -10,6 +10,7 @@ from Utils import init_logging
 import multiprocessing
 import asyncio
 from .Connector import TR2013Connector
+from .Data import Data
 
 POLL_INTERVAL = 0.5
 
@@ -28,6 +29,11 @@ class TR2013Context(CommonContext):
         self.conn: TR2013Connector | None = None
         self._connect_warned = False
         self._disconnect_warned = True
+        self.loc_id_to_offset = {
+            loc["id"]: int(loc["item_object"], 16)
+            for loc in Data.location_table
+            if loc.get("item_object", "").startswith("0x")
+        }
 
     async def server_auth(self, password_requested: bool = False):
         if password_requested and not self.password:
@@ -65,12 +71,17 @@ async def game_monitor_task(ctx: "TR2013Context"):
     while not ctx.exit_event.is_set():
         if ctx.ensure_connected() and ctx.conn:
             try:
-                ctx.conn.read_bytes(0, 1)
+                manager = ctx.conn.collectible_manager()
+                found = [
+                    loc_id
+                    for loc_id, offset in ctx.loc_id_to_offset.items()
+                    if ctx.conn.read_collectible_flag(manager, offset)
+                ] if manager else []
             except Exception:
                 ctx.conn = None
             else:
-                if ctx.server and ctx.slot is not None:
-                    pass
+                if found and ctx.server and ctx.slot is not None:
+                    await ctx.check_locations(found)
         await asyncio.sleep(POLL_INTERVAL)
 
 def launch():

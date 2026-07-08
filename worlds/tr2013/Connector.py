@@ -3,6 +3,8 @@ from pymem.exception import ProcessNotFound
 
 
 class TR2013Connector:
+    COLLECTIBLE_MANAGER = 0x1CDEC40
+
     def __init__(self, pm: "pymem.Pymem"):
         self.pm = pm
         self.base = pm.base_address
@@ -26,3 +28,9 @@ class TR2013Connector:
 
     def write_bytes(self, addr, b):
         self.pm.write_bytes(self.base + addr, b, len(b))
+
+    def collectible_manager(self) -> int:
+        return int(self.pm.read_uint(self.base + self.COLLECTIBLE_MANAGER))
+
+    def read_collectible_flag(self, manager: int, offset: int) -> int:
+        return int(self.pm.read_uchar(manager + offset))
