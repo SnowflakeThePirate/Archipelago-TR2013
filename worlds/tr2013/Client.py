@@ -9,6 +9,7 @@ from CommonClient import (
 from Utils import init_logging
 import multiprocessing
 import asyncio
+from .Connector import TR2013Connector
 
 POLL_INTERVAL = 0.5
 
@@ -18,11 +19,15 @@ class TR2013CommandProcessor(ClientCommandProcessor):
 
 
 class TR2013Context(CommonContext):
+    command_processor = TR2013CommandProcessor
     game = "Tomb Raider (2013)"
     items_handling = 0b111
     
     def __init__(self, server_address, password):
         super().__init__(server_address, password)
+        self.conn: TR2013Connector | None = None
+        self._connect_warned = False
+        self._disconnect_warned = True
 
     async def server_auth(self, password_requested: bool = False):
         if password_requested and not self.password:
@@ -35,10 +40,38 @@ class TR2013Context(CommonContext):
         if cmd == "Connected":
             self.slot_data = args["slot_data"]
 
+    def ensure_connected(self) -> bool:
+        """Attach to TombRaider.exe if not already attached. Returns True while attached."""
+        if self.conn is not None:
+            return True
+        try:
+            self.conn = TR2013Connector.attach()
+            logger.info("Connected to TombRaider")
+            self._connect_warned = False
+            self._disconnect_warned = False
+            return True
+        except Exception:
+            if not self._disconnect_warned:
+                logger.info("Disconnected from TombRaider")
+                self._disconnect_warned = True
+                self._connect_warned = False
+            if not self._connect_warned:
+                logger.warning("Waiting to connect to TombRaider...")
+                self._connect_warned = True
+            return False
 
 
-async def game_monitor_task(ctx: TR2013Context):
-    logger.info("Game Monitor attatching to TombRaider.exe...")
+async def game_monitor_task(ctx: "TR2013Context"):
+    while not ctx.exit_event.is_set():
+        if ctx.ensure_connected() and ctx.conn:
+            try:
+                ctx.conn.read_bytes(0, 1)
+            except Exception:
+                ctx.conn = None
+            else:
+                if ctx.server and ctx.slot is not None:
+                    pass
+        await asyncio.sleep(POLL_INTERVAL)
 
 def launch():
     init_logging("Tomb Raider (2013) Client")
