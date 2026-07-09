@@ -34,3 +34,6 @@ class TR2013Connector:
 
     def read_collectible_flag(self, manager: int, offset: int) -> int:
         return int(self.pm.read_uchar(manager + offset))
+
+    def clear_collectible_flag(self, manager: int, offset: int):
+        self.pm.write_uchar(manager + offset, 0)

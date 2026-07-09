@@ -72,16 +72,18 @@ async def game_monitor_task(ctx: "TR2013Context"):
         if ctx.ensure_connected() and ctx.conn:
             try:
                 manager = ctx.conn.collectible_manager()
-                found = [
-                    loc_id
-                    for loc_id, offset in ctx.loc_id_to_offset.items()
-                    if ctx.conn.read_collectible_flag(manager, offset)
-                ] if manager else []
+                if manager and ctx.server and ctx.slot is not None:
+                    found = [
+                        loc_id
+                        for loc_id, offset in ctx.loc_id_to_offset.items()
+                        if ctx.conn.read_collectible_flag(manager, offset)
+                    ]
+                    if found:
+                        await ctx.check_locations(found)
+                        for loc_id in found:
+                            ctx.conn.clear_collectible_flag(manager, ctx.loc_id_to_offset[loc_id])
             except Exception:
                 ctx.conn = None
-            else:
-                if found and ctx.server and ctx.slot is not None:
-                    await ctx.check_locations(found)
         await asyncio.sleep(POLL_INTERVAL)
 
 def launch():
